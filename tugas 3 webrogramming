@@ -1,1 +1,41 @@
+<html>
 
+<head>
+    <h1 align="center">
+        <p style="color:rgb(255, 255, 255);">FUNDAMENTAL WEB</p>
+        <marquee style="color: blue; font-size: 20px;">HTML JavaScipt CSS PHP</marquee>
+
+        <h4>
+            <p style="color:black;">
+                <sapn><b>HyperText Markup Languange(HTML)<p style="color:rgb(255, 255, 255)">adalah sebuah bahasa markup yang digunakan untuk membuat sebuah halam web, menampilkan berbagi berbagai informasi di dalam sebuah Pnejelajahan web Internet dan kucing bisakah?formating hypertext sederhana yang ditulis kedalam berkas format ASCII agar dapat menghasilkan tampilan wujud yang terintegrasi.</sapn></h4>
+            <p style="color:black;"><b>CSS<sup>(Caseading Style Sheet)</sup> <p style="color: ghostwhite;">CSS merupakan kumpulan kode-kode yang bertujuan untuk menghias dan mengatur gaya tampilan/layout halaman web supaya lebih elegan dan menarik. CSS cascading sy adalah sebuah teknologi internet yang direkomendasikan oleh World Wide Web Consortium atau W3C pada tahun 1996
+            </p>
+            <p style="color: black;"><b>JavaScipt <p style="color: rgb(236, 236, 255);">JavaScript adalah bahasa skrip yang populer di internet dan dapat bekerja di sebagian besar penjelajah web populer seperti Internet Explorer(IE), Mozilla, Firefox, Netscape dan Opera. Kode JavaScript dapat disisipkan dalam halaman web menggunakan tag SCRIPT</p>
+                <p style="color: black;"><b>PHP <P style="color:rgb(255, 255, 255);">adalah singkatan dari</sub>"PHP.HyperText Preprocessor"<b>yaitu bahasa pemrograman yang digunakan secara luas untuk penanganan pembuatan dan pengemangan sebuah situs web dan bisa digunakan bersama dengan HTML.PHP diciptkan oleh r\Rasmus Lerdorf pertama kali tahun 1994</b></p>
+            <h1>
+                <ins>FUNGSI HTML</ins>
+            </h1>
+            <h3>
+                <ol>
+                    <li>Mengintegrasi gambar dengan tulisan.</li>
+                    <li>Membuat Pranala.</li>
+                    <li>Membuat from interaktif</li>
+                    <li>Mengintegrasikan berkas suara dan rekaman gambar hidup</li>
+                </ol>
+
+                <head>
+                    <h3>img</h3>
+                    <img src="img/kucing.jpeg" width="250" height="250">
+                    <h3 align="center">
+                        <b>copyright ICLABS<sub>TM</b>2019</b>
+                    </h3>
+                </head>
+</head>
+<style>
+    body {
+        background-color: darkgrey;
+    }
+</style>
+
+
+</html>
